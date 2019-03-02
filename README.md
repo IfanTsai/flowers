@@ -1,7 +1,7 @@
 # flowers
 基于Qt widget (cpp)的一个表白动画程序
 
-[![Watch the video](./screenshot/screenshot.png)](./screenshot/screen_recording.gif)
+![screen_recording](./screenshot/screen_recording.gif)
 
 
 
