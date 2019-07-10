@@ -6,7 +6,7 @@
 ![screen_recording](./screenshot/screen_recording.gif)
 
 ## show
-- **上面的gif无法预览bgm, 完整版就下载[screen_recording.mp4](https://github.com/IfanTsai/flowers/blob/master/screenshot/screen_recording.mp4)**
+- **上面的gif无法预览bgm, 完整版请下载[screen_recording.mp4](https://github.com/IfanTsai/flowers/blob/master/screenshot/screen_recording.mp4)**
 - 只编译打包了windows平台下的可执行程序， 请下载[flowers.exe](https://github.com/IfanTsai/flowers/blob/master/exe/flowers.exe)
 
 ## 文件夹说明
